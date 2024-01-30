@@ -101,7 +101,7 @@ section{
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width:6rem;
+    width:4rem;
     height: 4rem;
     background: transparent;
     border: .2rem solid var(--main-color);
